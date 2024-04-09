@@ -6,7 +6,14 @@
 
 <!--END_SECTION:waka-->
 [Facebook]: https://www.facebook.com/iustt31
+## 🐱My Certificates
 
+<a href="./Certificate/Hồ Thanh Hải JavaScript Advanced Certificate.png">
+    <img height="100px" width="150px" src="./Certificate/Hồ Thanh Hải JavaScript Advanced Certificate.png" alt="sql advanced skill"/>
+</a>
+<a href="./Certificate/Hồ Thanh Hải JavaScript Basic Certificate.png">
+   <img height="100px" width="150px" src="./Certificate/Hồ Thanh Hải JavaScript Basic Certificate.png" alt="sql advanced skill"/>
+</a>
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
