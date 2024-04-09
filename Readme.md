@@ -9,9 +9,9 @@
 ## 🐱My Certificates
 
 <a href="./Certificate/java_basic certificate.pdf">
-    <img height="100px" width="150px" src="./Certificate/Hồ Thanh Hải JavaScript Advanced Certificate.png" alt="java basic skill"/>
+    <img height="100px" width="150px" src="./Certificate/java_basic certificate.pdf" alt="java basic skill"/>
 </a>
-<a href="./Certificate/Hồ Thanh Hải JavaScript Basic Certificate.png">
+<a href="./Certificate/sql_basic certificate.pdf">
    <img height="100px" width="150px" src="./Certificate/sql_basic certificate.pdf" alt="sql basic skill"/>
 </a>
 
