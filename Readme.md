@@ -8,11 +8,11 @@
 [Facebook]: https://www.facebook.com/iustt31
 ## 🐱My Certificates
 
-<a href="./Certificate/logo_javaBasic.png">
-    <img height="100px" width="150px" src="./Certificate/img_Java_basic.png" alt="java basic skill"/>
+<a href="./Certificate/img_Java_basic.png">
+    <img height="100px" width="150px" src="./Certificate/logo_javaBasic.png " alt="java basic skill"/>
 </a>
-<a href="./Certificate/logo_sqlBasic.png">
-   <img height="100px" width="150px" src="./Certificate/img_SQL_basic.png" alt="sql basic skill"/>
+<a href="./Certificate/img_SQL_basic.png">
+   <img height="100px" width="150px" src="./Certificate/logo_sqlBasic.png " alt="sql basic skill"/>
 </a>
 
 ### 🛠 Languages and Tools
