@@ -8,7 +8,7 @@
 [Facebook]: https://www.facebook.com/iustt31
 ## 🐱My Certificates
 
-<a href="./Certificate/Hồ Thanh Hải JavaScript Advanced Certificate.png">
+<a href="./Certificate/java_basic certificate.pdf">
     <img height="100px" width="150px" src="./Certificate/Hồ Thanh Hải JavaScript Advanced Certificate.png" alt="sql advanced skill"/>
 </a>
 <a href="./Certificate/Hồ Thanh Hải JavaScript Basic Certificate.png">
