@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Lê+Minh+Đức;Nice+to+Meet+You+!!!...)](https://github.com/Minhdwc)
 - 🔭 I’m currently a Student at Ho Chi Minh City University of Industry Trade (HUIT) 
 - 📫 How to reach me: [Facebook]
-- 🫀 Hobby: I love to see the scenery and flowers 🥰
+- 🫀 Hobby: I love Copy & Past
 
 <!--END_SECTION:waka-->
 [Facebook]: https://www.facebook.com/iustt31
