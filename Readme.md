@@ -16,8 +16,8 @@
 <a href="./Certificate/img_SQL_basic.png">
    <img height="100px" width="150px" src="./Certificate/logo_sqlBasic.png " alt="sql basic skill"/>
 </a>
-<a >
-    <img height="100px" width="150px" src="./Certificate/./Certificate/logo_sqlBasic.png"/>
+<a href="./Certificate/Screenshot 2025-02-17 222257.png">
+    <img height="100px" width="150px" src="./Certificate/Screenshot 2025-02-17 222257.png"/>
 </a>
 
 ### 🛠 Languages and Tools
