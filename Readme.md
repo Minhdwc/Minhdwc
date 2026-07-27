@@ -50,7 +50,7 @@ Customer-facing website for service consulting and product presentation.
 - Integrated APIs and optimized SEO (Next.js, next-sitemap).
 - `Next.js` `TypeScript` `Tailwind CSS` `Zustand`
 
-🔗 [labone.net.vn](https://labone.net.vn/)
+🔗 [labone.com.vn](https://labone.com.vn/)
 
 ---
 
